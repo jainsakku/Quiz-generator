@@ -1,4 +1,4 @@
-This project titled 'QUIZ MASTER' performs following functions:
+This project titled 'QUIZ MAKER' generates random questions from the server and present them in the form of GUI quiz using MongoDB and python,performs following functions :
 
   -Login and Registration for user
   -Validation of existing username or wrong login credentials
